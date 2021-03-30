@@ -91,7 +91,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Include `X-OneBlink-User-Token` if `userToken` is provided
 
-## 0.4.0 (2020-11-17)
+## 0.4.0 - 2020-11-17
 
 ### Changed
 

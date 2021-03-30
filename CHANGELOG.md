@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-## 0.7.0 (2020-03-30)
+## [0.7.0] (2020-03-30)
 
 ### Changed
 
@@ -12,7 +12,7 @@
 
 - `OneBlinkAppsError.httpStatusCode` not being set
 
-## 0.6.1 (2020-03-23)
+## [0.6.1] (2020-03-23)
 
 ### Dependencies
 
@@ -20,7 +20,7 @@
 
 - update [query-string](https://www.npmjs.com/package/query-string) to [6.14.1](https://github.com/sindresorhus/query-string/releases/tag/v6.14.1) (from [6.14.0](https://github.com/sindresorhus/query-string/releases/tag/v6.14.0))
 
-## 0.6.0 (2020-03-11)
+## [0.6.0] (2020-03-11)
 
 ### Changed
 

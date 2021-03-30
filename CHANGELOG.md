@@ -79,7 +79,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - `crn2` and `crn3` to BPOINT payment configuration
 
-## 0.4.2 (2020-11-25)
+## v0.4.2 - 2020-11-25
 
 ### Fixed
 

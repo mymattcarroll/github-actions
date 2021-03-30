@@ -114,7 +114,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - update [uuid](https://www.npmjs.com/package/uuid) to [8.3.1](https://github.com/uuidjs/uuid/blob/master/CHANGELOG.md) (from [8.3.0](https://github.com/uuidjs/uuid/blob/master/CHANGELOG.md))
 
-### 0.3.0 (2020-11-30)
+### [0.3.0] (2020-11-30)
 
 ### Changed
 
@@ -129,7 +129,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - hard coded `formsAppId` on draft submissions
 
-### 0.2.0 (2020-10-15)
+### [0.2.0] (2020-10-15)
 
 ### Added
 
@@ -148,6 +148,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - types for submissions
 
-## 0.1.0 (2020-08-24)
+## [0.1.0] (2020-08-24)
 
 Initial release

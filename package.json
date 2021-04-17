@@ -1,0 +1,24 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "testing github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mymattcarroll/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mymattcarroll/github-actions/issues"
+  },
+  "homepage": "https://github.com/mymattcarroll/github-actions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

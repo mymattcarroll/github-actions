@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+### Changed
+
+- documentation for sending emails from Hosted APIs
+
+### Fixed
+
+- `api serve` command not handling request payload and response payload correctly if they are not JSON
+
 ## [1.0.0] - 2021-04-17
 
 Initial release

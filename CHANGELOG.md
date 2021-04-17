@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+### Fixed
+
+- `civicplus` entry point not using CivicPlus tenant
+
 ## [1.2.0] - 2021-04-17
 
 ### Added
@@ -19,8 +23,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - API deployment process to be synchronous
 
 ### Dependencies
-
-### Changed
 
 - depend upon [node-fetch](https://www.npmjs.com/package/node-fetch) [2.6.1](https://github.com/node-fetch/node-fetch/releases/tag/v2.6.1)
 

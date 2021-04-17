@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.2.0] - 2021-04-17
+
 ### Added
 
 - `api teardown` command to delete a single API hosting environment
@@ -15,6 +17,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - `api serve` command to use `express` instead of `hapi`
 - API deployment process to be synchronous
+
+### Dependencies
+
+### Changed
+
+- depend upon [node-fetch](https://www.npmjs.com/package/node-fetch) [2.6.1](https://github.com/node-fetch/node-fetch/releases/tag/v2.6.1)
 
 ## [1.1.0] - 2021-04-17
 

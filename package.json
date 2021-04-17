@@ -17,7 +17,9 @@
     "url": "https://github.com/mymattcarroll/github-actions/issues"
   },
   "homepage": "https://github.com/mymattcarroll/github-actions#readme",
-  "dependencies": {},
+  "dependencies": {
+    "got": "^11.8.2"
+  },
   "devDependencies": {
     "prettier": "^2.2.1"
   }

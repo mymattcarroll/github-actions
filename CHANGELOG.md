@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.3.4] - 2021-04-17
+
+### Fixed
+
+- something
+
+### Dependencies
+
+TIP: set the GITHUB_OAUTH_TOKEN environment variable to improve accuracy
+
 ## [1.3.3] - 2021-04-17
 
 ### Dependencies

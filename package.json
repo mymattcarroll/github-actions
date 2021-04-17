@@ -1,6 +1,6 @@
 {
   "name": "github-actions",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "testing github actions",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,7 @@
     "url": "https://github.com/mymattcarroll/github-actions/issues"
   },
   "homepage": "https://github.com/mymattcarroll/github-actions#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "prettier": "^2.2.1"
   }

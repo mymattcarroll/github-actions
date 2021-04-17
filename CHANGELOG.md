@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.3.3] - 2021-04-17
+
+### Dependencies
+
+TIP: set the GITHUB_OAUTH_TOKEN environment variable to improve accuracy
+
+- no longer depend upon [node-fetch](https://www.npmjs.com/package/node-fetch)
+
 ## [1.3.2] - 2021-04-17
 
 ### Fixed

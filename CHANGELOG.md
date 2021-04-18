@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.4.0] - 2021-04-18
+
 ### Fixed
 
 - something
+
+### Dependencies
+
+- no longer depend upon [got](https://www.npmjs.com/package/got)
 
 ## [1.3.9] - 2021-04-18
 

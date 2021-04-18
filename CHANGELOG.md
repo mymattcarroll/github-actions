@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.3.6] - 2021-04-18
+
 ### Fixed
 
 - something
+
+### Dependencies
+
+- depend upon [node-fetch](https://www.npmjs.com/package/node-fetch) [2.6.1](https://github.com/node-fetch/node-fetch/releases/tag/v2.6.1)
 
 ## [1.3.5] - 2021-04-17
 

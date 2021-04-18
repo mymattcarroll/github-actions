@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.3.9] - 2021-04-18
+
+### Dependencies
+
+- depend upon [got](https://www.npmjs.com/package/got) [11.8.2](https://github.com/sindresorhus/got/releases/tag/v11.8.2)
+
 ## [1.3.8] - 2021-04-18
 
 ### Added

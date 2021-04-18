@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/mymattcarroll/github-actions#readme",
   "dependencies": {
-    "got": "^11.8.2",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {

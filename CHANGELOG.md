@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [1.5.0] (2023-04-03) Best Release Ever
+
+### Fixed
+
+- something
+
+### Dependencies
+
+- no longer depend upon [node-fetch](https://www.npmjs.com/package/node-fetch)
+
+- depend upon [dotenv](https://www.npmjs.com/package/dotenv) [16.0.3](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md)
+
 ## [1.4.0] - 2021-04-18
 
 ### Fixed

@@ -1,0 +1,12 @@
+name: Variables
+on: [push]
+jobs:
+  variables:
+    name: Variables Testing
+    runs-on: ubuntu-latest
+    steps:
+      - uses: oneblink/github-actions/parse-json-env-var
+        with:
+          variable: '{ "MY_VARIABLE_NAME": "MY_VARIABLE_VALUE", "ANOTHER_VARIABLE_NAME": "ANOTHER_VARIABLE_VALUE" }'
+          is-secret: false
+      - run: printenv

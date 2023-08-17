@@ -11,6 +11,16 @@ jobs:
           is-secret: false
       - uses: oneblink/github-actions/parse-json-env-var@master
         with:
+          prefix: "VARIABLES_"
+          variable: ${{ vars.MY_GITHUB_VARIABLE }}
+          is-secret: false
+      - uses: oneblink/github-actions/parse-json-env-var@master
+        with:
+          variable: ${{ secrets.MY_GITHUB_SECRET }}
+          is-secret: true
+      - uses: oneblink/github-actions/parse-json-env-var@master
+        with:
+          prefix: "SECRETS_"
           variable: ${{ secrets.MY_GITHUB_SECRET }}
           is-secret: true
       - run: printenv

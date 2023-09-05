@@ -30,6 +30,6 @@ jobs:
       - uses: devops-infra/action-commit-push@v0.9.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_prefix: "[DOCS]"
+          commit_prefix: "[DOCS] "
           commit_message: ${{ github.ref_name }}
           target_branch: "main"

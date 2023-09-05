@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+### Fixed
+
+- missing `target_branch` from docs generation
+
 ## [5.4.1] - 2023-09-05
 
 ### Dependencies

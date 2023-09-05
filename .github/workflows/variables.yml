@@ -1,5 +1,10 @@
 name: Variables
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - "main"
+    tags-ignore:
+      - "**"
 jobs:
   variables:
     name: Variables Testing

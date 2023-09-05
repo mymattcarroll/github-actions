@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.4.1] - 2023-09-05
+
+### Dependencies
+
+- update [dotenv](https://www.npmjs.com/package/dotenv) to [16.3.1](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md) (from [16.0.3](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md))
+
+- depend upon [typedoc](https://www.npmjs.com/package/typedoc) [0.22.15](https://github.com/TypeStrong/typedoc/releases/tag/v0.22.15)
+
 ## [5.4.0] - 2023-04-03
 
 ##### Release Name: Gaming Time Wasted

@@ -1,9 +1,11 @@
 {
   "name": "github-actions",
-  "version": "5.4.0",
+  "version": "5.4.1",
   "description": "testing github actions",
   "main": "index.js",
   "scripts": {
+    "docs": "typedoc",
+    "release": "oneblink-release --no-name",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,9 +20,12 @@
   },
   "homepage": "https://github.com/mymattcarroll/github-actions#readme",
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "@oneblink/release-cli": "^2.0.3",
+    "prettier": "^3.0.3",
+    "prettier-plugin-jsdoc": "^1.0.1"
   },
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.3.1",
+    "typedoc": "^0.22.15"
   }
 }

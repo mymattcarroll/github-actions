@@ -1,0 +1,10 @@
+/**
+ * Add two numbers together
+ *
+ * @param a First number
+ * @param b Second number
+ * @returns The result of adding `a` and `b` together.
+ */
+export default function add(a: number, b: number): number {
+  return a + b;
+}

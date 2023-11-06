@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.1] - 2023-11-06
+
+### Changed
+
+- massive code changes, be prepared...
+
+### Dependencies
+
+- rollback [node-fetch](https://www.npmjs.com/package/node-fetch) to [3.0.0](https://github.com/node-fetch/node-fetch/releases/tag/v3.0.0) (from [3.3.2](https://github.com/node-fetch/node-fetch/releases/tag/v3.3.2))
+
 ## [5.5.0] - 2023-11-06
 
 ##### Release Name: Testy Test

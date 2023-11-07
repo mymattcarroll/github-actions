@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.6] - 2023-11-07
+
+### Dependencies
+
+- update [node-fetch](https://www.npmjs.com/package/node-fetch) to [3.3.2](https://github.com/node-fetch/node-fetch/releases/tag/v3.3.2) (from [3.0.0](https://github.com/node-fetch/node-fetch/releases/tag/v3.0.0))
+
+- depend upon [jest](https://www.npmjs.com/package/jest) [29.0.0](https://github.com/jestjs/jest/releases/tag/v29.0.0)
+
 ## [5.5.5] - 2023-11-07
 
 ##### Release Name: Another

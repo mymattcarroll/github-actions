@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.4] - 2023-11-07
+
+##### Release Name: Testy Test 2
+
+### Dependencies
+
+- no longer depend upon [node-fetch](https://www.npmjs.com/package/node-fetch)
+
 ## [5.5.3] - 2023-11-06
 
 ### Fixed

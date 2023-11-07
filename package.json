@@ -1,6 +1,6 @@
 {
   "name": "github-actions",
-  "version": "5.5.4",
+  "version": "5.5.5",
   "description": "testing github actions",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "prettier-plugin-jsdoc": "^1.0.1"
   },
   "dependencies": {
+    "node-fetch": "3.0.0",
     "dotenv": "^16.3.1",
     "typedoc": "^0.22.15"
   }

@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.8] - 2026-01-15
+
+##### Release Name: Large
+
 ## [5.5.7] - 2026-01-15
 
 ##### Release Name: Mega

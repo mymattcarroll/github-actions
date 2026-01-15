@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.7] - 2026-01-15
+
+##### Release Name: Mega
+
+### Dependencies
+
+- no longer depend upon jest
+
+- no longer depend upon node-fetch
+
+- no longer depend upon dotenv
+
 ## [5.5.6] - 2023-11-07
 
 ### Dependencies

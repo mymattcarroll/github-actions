@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [5.5.9] - 2026-02-04
+
+### Dependencies
+
+- update typedoc to [0.28.16](https://github.com/TypeStrong/typedoc/releases/tag/v0.28.16) (from [0.22.15](https://github.com/TypeStrong/typedoc/releases/tag/v0.22.15))
+
 ## [5.5.8] - 2026-01-15
 
 ##### Release Name: Large
